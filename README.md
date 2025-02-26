@@ -1,3 +1,7 @@
+![GitHub Banner](https://raw.githubusercontent.com/OHarvey13/OHarvey13/main/assets/![7713a5b27d3260866b175f441370a945](https://github.com/user-attachments/assets/10de920a-4741-4691-ae6a-f5d0c19c23e6)
+)
+
+
 # 🪴 About Me:
 I'm currently studying Computer Science with an Artificial Intelligence concentration <br>I'm working on a website that tells historical facts about Japanese architecture<br> 
 
