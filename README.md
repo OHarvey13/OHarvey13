@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://github.com/OHarvey13/OHarvey13/blob/main/library.gif?raw=true" width="1500" height ="400">
+  <img src="https://github.com/OHarvey13/OHarvey13/blob/main/library.gif?raw=true" width="1500" height ="300">
 </p>
 
 
 
 
 # 🪴 About Me:
-I'm currently studying Computer Science with an Artificial Intelligence concentration <br>I'm working on a website that tells historical facts about Japanese architecture<br> 
+I'm currently studying Computer Science with an Artificial Intelligence concentration <br>I'm working on a website that tells historical facts about Japanese architecture<br> <br> I have a passion for learning new things and machine learning. I am branching out to different fields of computer science to discover more passions.<br>
 
 
 ## 🎍 Socials:
