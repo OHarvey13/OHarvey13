@@ -3,7 +3,7 @@
 </p>
 
 # 🪴 System Log:
-🌿 Currently studying Computer Science with an Artificial Intelligence concentration <br>🏯I'm working on a website that tells historical facts about Japanese architecture<br>🌳I have a passion for learning new things and machine learning.<br>🎋I am branching out to different fields of computer science to discover more passions.
+🌿Currently studying Computer Science with an Artificial Intelligence concentration <br>🏯I'm working on a website that tells historical facts about Japanese architecture<br>🌳I have a passion for learning new things and machine learning.<br>🎋I am branching out to different fields of computer science to discover more passions.
 
 
 ## 🎍 Social Pantry:
