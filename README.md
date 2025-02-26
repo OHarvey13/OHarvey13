@@ -1,3 +1,4 @@
+![GitHub Banner](https://raw.githubusercontent.com/OHarvey13/OHarvey13/main/assets/koifish.gif)
 
 
 # 🪴 About Me:
