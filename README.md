@@ -1,4 +1,4 @@
-![GitHub Banner]([https://raw.githubusercontent.com/OHarvey13/OHarvey13/main/assets/koifish.gif](https://github.com/OHarvey13/OHarvey13/blob/06ceafc9975816c56da18808a757181995bd8d4a/koifish.gif))
+![GitHub Banner](https://github.com/OHarvey13/OHarvey13/blob/main/koifish.gif?raw=true)
 
 
 # 🪴 About Me:
