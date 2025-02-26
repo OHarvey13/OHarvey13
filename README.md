@@ -1,4 +1,5 @@
-![GitHub Banner]((https://github.com/OHarvey13/OHarvey13/blob/main/library.gif?raw=true))
+![GitHub Banner](https://github.com/OHarvey13/OHarvey13/blob/main/library.gif?raw=true)
+
 
 
 # 🪴 About Me:
