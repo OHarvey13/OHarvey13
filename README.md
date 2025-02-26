@@ -14,7 +14,6 @@ I'm currently studying Computer Science with an Artificial Intelligence concentr
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=OHarvey13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<img src="https://github-profile-trophy.vercel.app/?username=OHarvey13" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
