@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/OHarvey13/OHarvey13/blob/main/library.gif?raw=true" width="1500" height ="300">
+  <img src="https://github.com/OHarvey13/OHarvey13/blob/main/library.gif?raw=true" width="1500" height ="400">
 </p>
 
 
