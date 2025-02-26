@@ -1,5 +1,4 @@
-![GitHub Banner](https://raw.githubusercontent.com/OHarvey13/OHarvey13/main/assets/![koi fish](https://github.com/user-attachments/assets/be8ee12e-b098-4ae0-9b6f-b1b7ffe815ec)
-)
+
 
 # 🪴 About Me:
 I'm currently studying Computer Science with an Artificial Intelligence concentration <br>I'm working on a website that tells historical facts about Japanese architecture<br> 
