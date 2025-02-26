@@ -1,6 +1,6 @@
 ![GitHub Banner](https://github.com/OHarvey13/OHarvey13/blob/main/library.gif?raw=true)
 <p align="center">
-  <img src="https://github.com/OHarvey13/OHarvey13/blob/main/koifish.gif?raw=true" width="1000">
+  <img src="https://github.com/OHarvey13/OHarvey13/blob/main/library.gif?raw=true" width="1500" height ="600">
 </p>
 
 
