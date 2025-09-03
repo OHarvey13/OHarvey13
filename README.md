@@ -23,11 +23,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=OHarvey13&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OHarvey13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 Trophy Hunting
-![](https://github-profile-trophy.vercel.app/?username=OHarvey13&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OHarvey13&icon=0&color=8)](https://visitcount.itsvg.in)
